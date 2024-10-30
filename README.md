@@ -23,7 +23,7 @@ While the code is not publicly available, you can explore the live application t
 
 - **Email**: [yashvardhan.mohit.rao.27@gmail.com](mailto:yashvardhan.mohit.rao.27@gmail.com)
 
-- **LinkedIn**: [Yashvardhan Rao](www.linkedin.com/in/yashvardhan-mohit-rao)
+- **LinkedIn**: [Yashvardhan Rao](https://www.linkedin.com/in/yashvardhan-mohit-rao/)
 
 
 ## License
